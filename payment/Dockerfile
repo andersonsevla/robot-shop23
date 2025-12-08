@@ -1,4 +1,4 @@
-FROM python:3.9
+FROM python:3.14.1
 
 EXPOSE 8080
 USER root
